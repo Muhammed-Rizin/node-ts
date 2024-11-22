@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build directory
+dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Prettier & ESLint config files
+.prettierignore
+.eslintignore
